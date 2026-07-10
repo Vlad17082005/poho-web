@@ -384,7 +384,9 @@ export default function Home() {
             </div>
           </div>
           <div className="footer-bottom">
-            © {new Date().getFullYear()} PoHo Mobile. All rights reserved.
+            © {new Date().getFullYear()} DOLYA LTD. All rights reserved.
+            <br />
+            PoHo is a product of DOLYA LTD, a company registered in England and Wales, Company No. 17303003. Registered office: Office 19599, 182-184 High Street North, London, England, E6 2JA.
           </div>
         </div>
       </footer>

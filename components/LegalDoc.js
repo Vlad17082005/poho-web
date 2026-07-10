@@ -50,7 +50,7 @@ export default function LegalDoc({ title, text }) {
     <div className="legal-page-wrapper">
       <Head>
         <title>{title} | PoHo</title>
-        <meta name="description" content={`${title} for PoHo Mobile App`} />
+        <meta name="description" content={`${title} for the PoHo App`} />
       </Head>
       
       <div className="legal-container">

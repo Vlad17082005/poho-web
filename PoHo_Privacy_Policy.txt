@@ -28,7 +28,7 @@ General Data Protection Regulation (UK GDPR) and the Data Protection Act 2018.
 
 1.  Introduction and Who We Are
 
-PoHo Mobile ("PoHo", "we", "us", "our") is the data controller responsible for the personal data processed under this Privacy Policy. PoHo is a social discovery platform that helps people find events, activities, and companions for real-world experiences. Our Services include a mobile application (the "App"), a website at poho.world, and related features including real-time messaging, audio/video calling, location-based discovery, and event management.
+DOLYA LTD ("PoHo", "we", "us", "our") is the data controller responsible for the personal data processed under this Privacy Policy. DOLYA LTD is a private limited company registered in England and Wales, Company No. 17303003, with its registered office at Office 19599, 182-184 High Street North, London, England, E6 2JA. PoHo, a product of DOLYA LTD, is a social discovery platform that helps people find events, activities, and companions for real-world experiences. Our Services include a mobile application (the "App"), a website at poho.world, and related features including real-time messaging, audio/video calling, location-based discovery, and event management.
 
 We are committed to protecting your privacy and handling your personal data with transparency, integrity, and care. This Privacy Policy is written in plain English and is intended to be clear and understandable. Questions? Contact our Data Protection Officer at privacy@poho.world.
 
@@ -364,7 +364,7 @@ poho.world
 
 Mailing Address
 
-PoHo Mobile, Legal & Compliance Department
+DOLYA LTD, Legal & Compliance Department, Office 19599, 182-184 High Street North, London, England, E6 2JA
 
 
 
